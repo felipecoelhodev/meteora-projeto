@@ -1,4 +1,4 @@
-# Meteora Store 
+# E-commerce | Meteora Store 
 
 O Meteora Store é uma plataforma moderna de e-commerce desenvolvida com Next.js (App Router) e integrada ao Supabase como solução de Backend-as-a-Service (BaaS) para persistência e gestão de dados, contando com uma camada de API interna (BFF) otimizada para a listagem, filtragem e pesquisa de produtos e categorias. A aplicação foi feita para por em prática toda a materialização dos conceitos mais avançados de engenharia de software e desenvolvimento Front-End em React 19 — como estratégias de renderização (SSR, CSR, SSG e ISR), otimização de SEO e criação de endpoints RESTful —, alinhando-se diretamente com as últimas tendências globais de tecnologia e Inteligência Artificial discutidas no mercado para entregar uma experiência de utilizador fluida, performática e de alta qualidade. O projeto está em constante atualização para adicionar novas páginas e funcionalidades novas. 
 
